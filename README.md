@@ -1,7 +1,7 @@
 # Olá, eu sou o Artur Mendonça Arruda 👋
 
 ## 🌱 Sobre mim
-Sou um desenvolvedor apaixonado por aprender novas tecnologias e criar soluções que impactem positivamente o mundo. Atualmente, estou focado em melhorar minhas habilidades em programação, aprendizado de máquina e web development. 💻
+Sou um desenvolvedor apaixonado por aprender novas tecnologias e criar soluções que impactem positivamente o mundo. Atualmente, estou focado em melhorar minhas habilidades em programação, aprendizado de máquina e web development. ��
 
 ## 💻 Tecnologias que eu uso
 
@@ -16,17 +16,11 @@ Eu sou uma pessoa que adora fazer commits frequentes! Veja abaixo a minha contri
 
 ![Contribution Snake](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 
-## 📈 Contribuições no GitHub
-Essas são algumas das minhas contribuições mais recentes:
-
-![GitHub Contributions](https://github-contributions.now.sh/ArtyMend07)
-
 ## ⚡ Badges Interativos
 
 ### 🔥 Contagem de Repositórios
 
-![Repos Badge](https://img.shields.io/github/followers/ArtyMend07?label=Seguidores&style=social)
-
+![Repos Badge](https://img.shields.io/badge/Repositórios-6-blue)
 
 ### 👨‍💻 Trabalhos feitos
 
@@ -40,9 +34,8 @@ Essas são algumas das minhas contribuições mais recentes:
 
 ![Ranking](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ArtyMend07&theme=github)
 
-
 ## 🔥 Mais Estatísticas e Curiosidades:
 
 - **Número de Commits no último mês**: ![Commits](https://img.shields.io/badge/commits-20-brightgreen)
-- **Último projeto**: [Link para o projeto mais recente](https://github.com/unb-mds/Squad13)
+- **Último projeto**: [Link para o projeto mais recente](https://github.com/Requisitos-de-Software/2025.1-e-GDF)
 - **GitHub Actions**: ![Actions](https://img.shields.io/badge/actions-passed-brightgreen)
