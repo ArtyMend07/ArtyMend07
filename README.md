@@ -3,7 +3,7 @@
 <br>
 
 ## 🚀 About Me
-I'm a 6th-semester Software Engineering student at the University of Brasília (UnB). I am a developer dedicated to learning and creating robust software solutions, with a strong focus on **Artificial Intelligence** and **Back-End**.
+I'm a 7th-semester Software Engineering student at the University of Brasília (UnB). I am a developer dedicated to learning and creating robust software solutions, with a strong focus on **Artificial Intelligence** and **Back-End**.
 
 <br>
 
@@ -86,7 +86,7 @@ I have dedicated significant effort to deepening my knowledge across various AI 
   <br>
 
   ## 🚀 Sobre Mim
-  Sou estudante de Engenharia de Software no 6º semestre na Universidade de Brasília (UnB). Atuo como desenvolvedor dedicado ao aprendizado e criação de soluções de software robustas, com foco em **Inteligência Artificial** e **Back-End**.
+  Sou estudante de Engenharia de Software no 7º semestre na Universidade de Brasília (UnB). Atuo como desenvolvedor dedicado ao aprendizado e criação de soluções de software robustas, com foco em **Inteligência Artificial** e **Back-End**.
 
   <br>
 
