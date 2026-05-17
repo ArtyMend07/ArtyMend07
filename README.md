@@ -44,8 +44,6 @@ I have dedicated significant effort to deepening my knowledge across various AI 
 
 > **Featured Applications:** I Applied **Bayesian Networks** to model state uncertainty and threat levels in a *Five Nights at Freddy's* simulation.
 > * Utilized **Soft Actor-Critic (SAC)** for autonomous agent optimization within a *JoJo's Bizarre Adventure: Vento Aureo* themed physics environment.
-> 
-> *Note: Detailed implementations are kept in private repositories for academic integrity. If you'd like to take a look, just let me know! Requesting access is a very straightforward process, and I'm always open to reviews (in general) or feedback. Any insight is more than welcome!*
 
 <br>
 
@@ -115,8 +113,6 @@ I have dedicated significant effort to deepening my knowledge across various AI 
 
   > **Aplicações de Destaque:** Apliquei **Redes Bayesianas** para modelar a incerteza de estados e níveis de ameaça em uma simulação de *Five Nights at Freddy's*.
   > * Utilizei **Soft Actor-Critic (SAC)** para a otimização de agentes autônomos em um ambiente de física com a temática de *JoJo's Bizarre Adventure: Vento Aureo*.
-  > 
-  > *Nota: Implementações técnicas detalhadas são mantidas em repositórios privados por integridade acadêmica. Se quiser dar uma olhada, é só me avisar! O processo de pedir acesso é bem tranquilo, e estou sempre aberto a quaisquer revisões ou feedbacks. Afinal, agradeço a qualquer tipo de sugestão!*
 
   ## 💻 Skills e Tecnologias
 <p align="left">
